@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "CipherApp\ConsoleUI.csproj", "{91FF3CCF-20AE-498D-8B48-F3F88F4B7AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDOK.EncryptionLib", "JDOKEncryptionLib\JDOK.EncryptionLib.csproj", "{1F3B8343-FDD7-4FAF-88ED-402291A061F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FF3CCF-20AE-498D-8B48-F3F88F4B7AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FF3CCF-20AE-498D-8B48-F3F88F4B7AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FF3CCF-20AE-498D-8B48-F3F88F4B7AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FF3CCF-20AE-498D-8B48-F3F88F4B7AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3B8343-FDD7-4FAF-88ED-402291A061F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3B8343-FDD7-4FAF-88ED-402291A061F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3B8343-FDD7-4FAF-88ED-402291A061F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3B8343-FDD7-4FAF-88ED-402291A061F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7623A102-F6A7-4F6D-9E89-DA6C82F44862}
+	EndGlobalSection
+EndGlobal
